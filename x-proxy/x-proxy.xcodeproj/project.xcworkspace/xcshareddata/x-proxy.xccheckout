@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>17FAF51B-8BFE-407B-BD76-BB32D1C91B1A</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>x-proxy</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>8BE55363592640AB7F697087B181AE202520D599</key>
 		<string>github.com:PrashntS/x-assist.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>x-proxy/x-proxy.xcodeproj/project.xcworkspace</string>
+	<string>x-proxy/x-proxy.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>8BE55363592640AB7F697087B181AE202520D599</key>
